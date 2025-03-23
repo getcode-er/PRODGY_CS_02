@@ -1,4 +1,4 @@
-# PRODGY_CS_0
+# PRODGY_CS_02
 **Title :** 
 _A Simple Image Encryption Tool using Pixel Manipulation._
 
