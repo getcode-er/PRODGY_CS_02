@@ -24,14 +24,14 @@ _A Simple Image Encryption Tool using Pixel Manipulation._
 >3.Follow the prompts:
 
 
-<Enter the image path.
+      "Enter the image path."
 
 
-<Provide a numeric key.
+      "Provide a numeric key."
 
 
-<The encrypted image will be saved.
+      "The encrypted image will be saved."
 
 
-<Use the same key to decrypt the image.
+      "Use the same key to decrypt the image."
 
