@@ -25,13 +25,7 @@ _A Simple Image Encryption Tool using Pixel Manipulation._
 
 
       "Enter the image path."
-
-
       "Provide a numeric key."
-
-
       "The encrypted image will be saved."
-
-
       "Use the same key to decrypt the image."
 
